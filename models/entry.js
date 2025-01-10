@@ -9,7 +9,7 @@ mongoose
     console.log('connected to MongoDB')
   })
   .catch((err) => {
-    console.err('connection failed ', err.message)
+    console.log('connection failed ', err.message)
   })
 
 // entryScheme is a document which is an instance of
