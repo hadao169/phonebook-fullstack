@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 In Mongoose, 'context' option in update methods is used to specify the context in which the validation rules are applied.
+=======
+In Mongoose, 'context' option in update methods is used to specify the context in which the validation rules are applied.
+>>>>>>> 8944bc1aeaadc4ba1b583b49d79d6546a71922a8
 => ensure that the validation rules are evaluated in the context of a query operation
