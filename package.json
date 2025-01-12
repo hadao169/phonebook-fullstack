@@ -6,11 +6,7 @@
     "start": "nodemon index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "build:ui": "rm -rf dist && cd ../phonebook && npm run build && cp -r dist ../PhonebookDatabase",
-=======
-    "build:ui": "rm -rf dist && cd FullStackUniOfHelsinki/PART_3/phonebook && npm run build && cp -r dist ../phonebook-fullstack",
->>>>>>> 8944bc1aeaadc4ba1b583b49d79d6546a71922a8
     "deploy:full": "npm run build:ui && git add . && git commit -m uibuild && git push",
     "lint": "eslint ."
   },
