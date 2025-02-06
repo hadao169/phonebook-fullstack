@@ -29,4 +29,19 @@ Note: I’m using a free Render.com account, so the site may go inactive due to 
 
 # Technologies
 ## Front-end
+	* Languages:
+  	* HTML
+  	* CSS
+  	* JavaScript
+	* Framework:
+  	* ReactJs
+## Back-end
+	* Language:
+  	* JavaScript
+  	* Node.js
+  * Framework:
+    * Express.js
+    * Mongoose
+  * Database:
+    * MongoDB 
 
