@@ -1,0 +1,49 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.deleteBtn{
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.addBtn{
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.addBtn:hover{
+  background-color: lightblue;
+}
+
+.deleteBtn:hover{
+  background-color: lightblue;
+}
+
+.notification {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 2px green solid;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+  height: fit-content;
+}
+
+.error{
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 2px red solid;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+  height: fit-content;
+}
