@@ -29,19 +29,19 @@ Note: I’m using Render.com to deploy my app, so the site may go inactive due t
 
 # Technologies
 ## Front-end
-	* Languages:
-  	* HTML
-  	* CSS
-  	* JavaScript
-	* Framework:
-  	* ReactJs
+* Languages:
+  * HTML
+  * CSS
+  * JavaScript
+* Framework:
+  * ReactJs
 ## Back-end
-	* Language:
-  	* JavaScript
-  	* Node.js
-  * Framework:
-    * Express.js
-    * Mongoose
-  * Database:
-    * MongoDB 
+* Language:
+  * JavaScript
+  * Node.js
+* Framework:
+  * Express.js
+  * Mongoose
+* Database:
+  * MongoDB 
 
