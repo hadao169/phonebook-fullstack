@@ -27,7 +27,7 @@ Note: I’m using Render.com to deploy my app, so the site may go inactive due t
 5. Searching and Filtering Contacts:
    If the phonebook application includes search or filtering functionality, users can utilize the search bar or filter options to refine the contact list. Entering a search term or selecting specific criteria will help narrow down the displayed contacts based on the specified parameters.
 
-# Technologies
+Technologies
 ## Front-end
 * Languages:
   * HTML
