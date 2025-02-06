@@ -11,7 +11,7 @@
     "lint": "eslint ."
   },
   "type": "module",
-  "author": "hadao",
+  "author": "HaDao",
   "license": "ISC",
   "description": "",
   "dependencies": {
