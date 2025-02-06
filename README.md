@@ -8,7 +8,7 @@ Link to my repository https://github.com/hadao169/phonebook-fullstack.git
 
 ![alt text](image.png)
 
-Note: I’m using a free Render.com account, so the site may go inactive due to inactivity. If it's not accessible, I haven't reactivated it yet.
+Note: I’m using Render.com to deploy my app, so the site may go inactive due to inactivity. If it's not accessible, I haven't reactivated it yet.
 
 # Description of Project
 
